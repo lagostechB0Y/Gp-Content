@@ -1,0 +1,5 @@
+{
+  "name": "GoPolitical Link Importer",
+  "description": "A secure front-end tool to import links as drafts into the GoPolitical system. It provides a simple form to submit a URL and an optional title, handling the API communication seamlessly.",
+  "requestFramePermissions": []
+}
